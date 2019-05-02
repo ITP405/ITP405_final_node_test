@@ -167,6 +167,4 @@ app.get('/api/students', function(request, response) {
   });
 });
 
-
-
 app.listen(process.env.PORT || 8000);
